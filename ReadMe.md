@@ -25,6 +25,7 @@ Two samples of the risk plots are shown below.  Offender 1 had a large decrease 
 
 **Risk Trends**
 ![Risk Trends Over Time](https://github.com/ThomasKArnold/TheSlowChangeMethod/blob/main/RiskScoresOverTime.png)
+
 As I thought about this, I reflected back to my experience with the discovery of the “Slow Change Method.” Could my experience be universal?  Is all change a zig-zag process?  Moreover, is slow change better than quick change?
 
 I decided to get more risk data, and collected longitudinal risk data from 50,000 offenders.  I assessed the fluctuation levels by using the standard errors on the OLS trajectories of longitudinal risk plots.  This removed any bias due to the overall change in values.  I broke the fluctuation levels into categories ranging from low to high, and then assessed the percent with improvement or decline.
@@ -35,6 +36,7 @@ Was the moral about the tortoise and the hare correct?  Does “slow and steady�
 
 **Average Change Direction by Fluctuation Level**
 ![Average Change Direction by Fluctuation Level](https://github.com/ThomasKArnold/TheSlowChangeMethod/blob/main/AverageChangeDirection.png)
+
 I realize that this is only one study and that there might be alternative explanations.  However, there don’t seem to be a lot of studies that explore this question.  Which is better?  Quick change or slow change?
 
 > Written with [StackEdit](https://stackedit.io/).
