@@ -1,5 +1,5 @@
 ﻿
-**The Slow Change Method**
+# The Slow Change Method
 Thomas Arnold, Ph.D.
 [arnoldtk@mail.uc.edu](mailto:arnoldtk@mail.uc.edu)
 
